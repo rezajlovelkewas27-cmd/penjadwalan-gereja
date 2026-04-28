@@ -163,7 +163,7 @@ Sistem ini menggunakan algoritma genetika untuk mengoptimalkan jadwal pemesanan 
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/rezajlovelkewas27/penjadwalan_gereja.git
+git clone https://github.com/rezajlovelkewas27-cmd/penjadwalan-gereja/tree/main/project
 
 # 2. Import database
 mysql -u username -p nama_database < Presenting.sql
@@ -260,4 +260,4 @@ MIT License
 
 ## Kontak
 Nama – rezajlovelkewas27@gmail.com
-Link Proyek: https://github.com/rezajlovelkewas27/penjadwalan_gereja.git
+Link Proyek: (https://github.com/rezajlovelkewas27-cmd/penjadwalan-gereja/tree/main/project)
